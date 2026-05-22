@@ -1,0 +1,14 @@
+fastapi[standard]
+modal
+matplotlib
+pandas
+seaborn
+scikit-learn
+openpyxl
+httpx>=0.24.0
+# LangChain RAG dependencies
+langchain>=0.1.0
+langchain-community
+langchain-google-genai
+faiss-cpu
+sentence-transformers
